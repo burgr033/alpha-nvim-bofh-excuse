@@ -32,7 +32,7 @@ Then in `.config/nvim/lua/config/alpha.lua`, use the following lines:
 
 local alpha = require("alpha")
 local dashboard = require("alpha.themes.dashboard")
-local fortune = require("alpha.excuse")
+local excuse = require("alpha.excuse")
 
 -- Set header
 dashboard.section.header.val = {
