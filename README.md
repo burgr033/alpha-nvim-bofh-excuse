@@ -1,12 +1,11 @@
 # alpha-nvim-bofh-excuse
 
-## synopsis:
+## synopsis
 
-fork of https://github.com/BlakeJC94/alpha-nvim-fortune. instead of inspirational quotes, these are just BOFH excuses.
+fork of https://github.com/BlakeJC94/alpha-nvim-fortune. instead of inspirational quotes, these are just BOFH excuses on the nvim alpha-dashboard (Only the `dashboard` theme is supported for now.)
 
-## credits:
+### credits
 
-Only the `dashboard` theme is supported for now.
 Many thanks to `@mhinz`, `@BlakeJC94`, the original authors.
 
 ## Quick start
