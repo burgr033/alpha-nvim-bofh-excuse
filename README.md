@@ -6,7 +6,7 @@ fork of https://github.com/BlakeJC94/alpha-nvim-fortune. instead of inspirationa
 
 ### credits
 
-Many thanks to `@mhinz`, `@BlakeJC94`, the original authors.
+Many thanks to `@mhinz` (original author for vim-startify), `@BlakeJC94` (original other of the fork for alpha) and `@chuckwagoncomputing` (who provided the list of excuses)
 
 ## Quick start
  It simple adds a
