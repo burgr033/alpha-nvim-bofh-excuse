@@ -21,7 +21,7 @@ return require('packer').startup(function()
     use 'wbthomason/packer.nvim'
     use {
         'goolord/alpha-nvim',
-        requires = {'cigh033/alpha-nvim-bofh-excuse'},
+        requires = {'burgr033/alpha-nvim-bofh-excuse'},
         config = function() require("config.alpha") end,
     }
 end)
